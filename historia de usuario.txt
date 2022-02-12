@@ -1,0 +1,5 @@
+Como usuario
+quiero un aplicativo el cual me indique que puntos de reciclaje se encuentra cerca 
+quiero visualizar en la aplicación que horarias hay para llevar el reciclaje a su punto
+quiero poder visualizar cuales son los puntos de reciclaje más cercanos a mi vivienda
+qiiero saber como usuario cuales son los desechos mas importantes 
